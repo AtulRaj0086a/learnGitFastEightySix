@@ -1,2 +1,1 @@
-# learnGitFastEightySix
-For learning git
+second commit 15:14
